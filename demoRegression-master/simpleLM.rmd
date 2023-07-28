@@ -56,3 +56,13 @@ summary.lm(simp)
 
 The adjusted R square for age is 0.5073
 
+```{r}
+simp <- lm(LENGTH~CHEST,data=bears)
+plot(LENGTH~CHEST,data=bears)
+abline(simp)
+summary.lm(simp)
+```
+
+The adjusted R square for chest is 0.7869
+
+
