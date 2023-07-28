@@ -65,4 +65,12 @@ summary.lm(simp)
 
 The adjusted R square for chest is 0.7869
 
+```{r}
+simp <- lm(LENGTH~WEIGHT,data=bears)
+plot(LENGTH~WEIGHT,data=bears)
+abline(simp)
+summary.lm(simp)
+```
+
+The R square for weight is 0.7423
 
