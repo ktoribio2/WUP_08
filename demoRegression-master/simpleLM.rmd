@@ -85,4 +85,4 @@ Neck:           0.7476
 Chest:          0.7869    
 Head Length:    0.8434    
 
-In conclusion, the lowest R square, 0.5073 for the age, is the best model out of the 6. 
+In conclusion, 0.8434 for the head length is the highest R square, making it the best model out of the 6. 
