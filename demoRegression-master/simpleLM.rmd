@@ -76,7 +76,7 @@ The R square for weight is 0.7423
 
 ## Discussion and Conclusion
 
-Based on the data and measurements we had, 
+Here is the data that was gathered from the tests...
 
 Age:            0.5073    
 Headwith:       0.5321    
@@ -84,3 +84,5 @@ Weight:         0.7423
 Neck:           0.7476    
 Chest:          0.7869    
 Head Length:    0.8434    
+
+In conclusion, the lowest R square, 0.5073 for the age, is the best model out of the 6. 
